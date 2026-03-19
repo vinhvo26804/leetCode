@@ -1,4 +1,4 @@
-package Array_HashMap_String_Week1;
+package Array_HashMap_String_Week1.HashTable;
 
 import java.util.HashMap;
 import java.util.HashSet;

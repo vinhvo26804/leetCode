@@ -1,4 +1,4 @@
-package Array_HashMap_String_Week1;
+package Array_HashMap_String_Week1.HashTable;
 
 import java.util.HashMap;
 
@@ -17,7 +17,7 @@ public class TwoSum {
         return new int[]{};
     }
     public static void main(String[] args) {
-        int[] nums = {2, 7, 9, 11};
+        int[] nums = {1,2, 7, 9, 11};
         int target = 7;
         int[] result = solve(nums, target);
         System.out.printf(result[0] + " " + result[1]);

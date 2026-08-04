@@ -1,4 +1,4 @@
-package Array_HashMap_String_Week1.String;
+package Array_HashMap_String_Week1.TwoPoint;
 
 public class ValidPalindrome {
     public static boolean isValidPalindrom(String s) {
